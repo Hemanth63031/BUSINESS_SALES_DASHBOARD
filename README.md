@@ -14,29 +14,6 @@ The dashboard provides comprehensive insights into **sales performance, profitab
 
 ![image alt](https://github.com/Hemanth63031/BUSINESS_SALES_DASHBOARD/blob/main/powerbidashboard.png?raw=true)
 
-## Dashboard Overview
-
-https://github.com/Hemanth63031/BUSINESS_SALES_DASHBOARD/blob/main/powerbidashboard.png?raw=true
-```
-images/dashboard_overview.png
-```
-
-## Sales by Region
-
-*(Add screenshot here)*
-
-```
-images/sales_region.png
-```
-
-## Top & Bottom Products
-
-*(Add screenshot here)*
-
-```
-images/top_bottom_products.png
-```
-
 ---
 
 # 🔄 End-to-End Data Pipeline
