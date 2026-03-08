@@ -12,10 +12,11 @@ The dashboard provides comprehensive insights into **sales performance, profitab
 
 # 📊 Dashboard Preview
 
+![image alt](https://github.com/Hemanth63031/BUSINESS_SALES_DASHBOARD/blob/main/powerbidashboard.png?raw=true)
+
 ## Dashboard Overview
 
-*(Add screenshot here)*
-
+https://github.com/Hemanth63031/BUSINESS_SALES_DASHBOARD/blob/main/powerbidashboard.png?raw=true
 ```
 images/dashboard_overview.png
 ```
