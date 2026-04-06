@@ -1,8 +1,5 @@
 # Business Sales Analytics Dashboard | SQL Server | Power BI | DAX | E-Commerce Dataset
 
-## 🏢 Client
-
-**Tata Consultancy Services (TCS)**
 
 This project involves the development of an **interactive Business Sales Analytics Dashboard** for an e-commerce business scenario using **SQL Server and Power BI**.
 
